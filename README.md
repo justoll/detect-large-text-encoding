@@ -7,6 +7,7 @@ This Library is also resilient to isolated encoding errors or small areas of dev
 
 
 ----- Linux  -----
+
 -> You need the tool "enca" installed from https://github.com/nijel/enca. Install it with
 ./configure
 make 
